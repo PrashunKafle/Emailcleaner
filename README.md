@@ -16,8 +16,8 @@ A simple machine learning project that classifies emails as Spam, Promotions, or
 
 
 ## Create and activate a virtual environment(Windows Example):
-python -m venv .venv
-.venv\Scripts\activate
+- python -m venv .venv
+- .venv\Scripts\activate
 
 ## Install Dependencies 
 pip install -r requirements.txt
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Use
 streamlit run app.py
 
-Then open the browser at http://localhost:8501
+Open browser at: http://localhost:8501
 
 ## Emailcleaner/
 - app.py # Streamlit app (web interface)
