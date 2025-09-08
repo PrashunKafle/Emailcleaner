@@ -27,11 +27,11 @@ streamlit run app.py
 
 Then open the browser at http://localhost:8501
 
-Emailcleaner/
-─ app.py # Streamlit app (web interface)
-─ Email_cleaner.py # Console-based classifier (CLI version)
-─ emails.csv # Sample dataset (small)
-─ large_emails_dataset.csv # Larger dataset for training/testing
-─ requirements.txt # Project dependencies
-─ README.md # Project documentation
-─ .gitignore # Ignored files (virtual env, cache, etc.)
+## Emailcleaner/
+- app.py # Streamlit app (web interface)
+- Email_cleaner.py # Console-based classifier (CLI version)
+- emails.csv # Sample dataset (small)
+- large_emails_dataset.csv # Larger dataset for training/testing
+- requirements.txt # Project dependencies
+- README.md # Project documentation
+- .gitignore # Ignored files (virtual env, cache, etc.)
