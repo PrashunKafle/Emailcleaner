@@ -20,10 +20,10 @@ A simple machine learning project that classifies emails as Spam, Promotions, or
 - .venv\Scripts\activate
 
 ## Install Dependencies 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Use
-streamlit run app.py
+- streamlit run app.py
 
 Open browser at: http://localhost:8501
 
